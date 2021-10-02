@@ -1,8 +1,18 @@
 # 30DaysOfCode
-Continuous improvement is key! My goal for October 2021 is to code every day to become better at handling data. 
+Continuous improvement is key! Not sure where I first read about this, but I just found this post by [lifehack.org](https://www.lifehack.org/788823/continuous-improvement) that highlighted the philosophy of Kaizen, the practice of continuous improvement. This resonated with me a lot, so I decided to set a goal to code every day of October! 
 
-Topics Explored: Scraping, Working with databases
 
+## Requirements 
+The daily requirements I set for myself are to do one of the following:
+* Do something you haven't done before
+* Improve on a piece of work you did
+* Report on something I did in an interesting way
+
+## Overview
+Topics Explored: Scraping 
+Tools I used so far: Concurrent.futures, bs4, requests
+
+## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** Generated script to scrape readlightnovel.com to create a light-novels dataset. 
-* **Oct 2: TBD
-* **Oct 3: TBD  
+* **Oct 2: TBD**
+* **Oct 3: TBD**
