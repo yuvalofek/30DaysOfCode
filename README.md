@@ -14,6 +14,6 @@ Topics Explored: Scraping
 Tools I used so far: Concurrent.futures, bs4, requests
 
 ## Daily Breakdown
-* **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** Generated script to scrape readlightnovel.com to create a light-novels dataset. 
+* **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.com to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 2: TBD**
 * **Oct 3: TBD**
