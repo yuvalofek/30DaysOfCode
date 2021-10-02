@@ -10,6 +10,7 @@ The daily requirements I set for myself are to do one of the following:
 
 ## Overview
 Topics Explored: Scraping 
+
 Tools I used so far: Concurrent.futures, bs4, requests
 
 ## Daily Breakdown
