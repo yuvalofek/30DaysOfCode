@@ -16,6 +16,6 @@ Tools I used so far: Concurrent.futures, bs4, requests
 Topics I am interested in looking into: Tableau, lightgbm, xgboost, seaborn (more in depth), pyspark, sklearn (more in depth), unbalanced-learn, scipy.stats (more in depth)
 
 ## Daily Breakdown
-* **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.com to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
+* **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 2: (concurrent.futures, Threading, Multiprocessing)** [A comparison of multi- and single core multiprocessing for matrix multiplication in Python](https://github.com/yuvalofek/MultiprocessingMatMul)
 * **Oct 3: TBD**
