@@ -11,7 +11,7 @@ The daily requirements I set for myself are to do one of the following:
 ## Overview
 Topics Explored: Scraping, Multiprocessing
 
-Tools I used so far: Concurrent.futures, bs4, requests
+Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing, threading
 
 Topics I am interested in looking into: Tableau, lightgbm, xgboost, seaborn (more in depth), pyspark, sklearn (more in depth), unbalanced-learn, scipy.stats (more in depth)
 
