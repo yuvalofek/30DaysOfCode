@@ -9,11 +9,13 @@ The daily requirements I set for myself are to do one of the following:
 * Report on something I did in an interesting way
 
 ## Overview
-Topics Explored: Scraping 
+Topics Explored: Scraping, Multiprocessing
 
 Tools I used so far: Concurrent.futures, bs4, requests
 
+Topics I am interested in looking into: Tableau, lightgbm, xgboost, seaborn (more in depth)
+
 ## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.com to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
-* **Oct 2: TBD**
+* **Oct 2: (concurrent.futures, Threading, Multiprocessing)** [A comparison of multi- and single core multiprocessing for matrix multiplication in Python](https://github.com/yuvalofek/MultiprocessingMatMul)
 * **Oct 3: TBD**
