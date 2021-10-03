@@ -18,4 +18,4 @@ Topics I am interested in looking into: Tableau, lightgbm, xgboost, seaborn (mor
 ## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 2: (concurrent.futures, Threading, Multiprocessing)** [A comparison of multi- and single core multiprocessing for matrix multiplication in Python](https://github.com/yuvalofek/MultiprocessingMatMul)
-* **Oct 3: TBD**
+* **Oct 3: (xgboost)** [Implemented xgboost from scratch! (part 1)](https://github.com/yuvalofek/py_xgboost)
