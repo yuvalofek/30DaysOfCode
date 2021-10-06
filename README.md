@@ -8,14 +8,62 @@ The daily requirements I set for myself are to do one of the following:
 * Report on something I did in an interesting way
 
 ## Overview
-Topics Explored: Scraping, Multiprocessing
+Topics Explored: Scraping, Multiprocessing, Gradient Boosted Trees (GBT), 
 
-Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing, threading
-
-Topics I am interested in looking into: Tableau, lightgbm, xgboost, seaborn (more in depth), pyspark, sklearn (more in depth), unbalanced-learn, scipy.stats (more in depth), statsmodels, prophet, greykite
+Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly
 
 ## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 2: (concurrent.futures, Threading, Multiprocessing)** [A comparison of multi- and single core multiprocessing for matrix multiplication in Python](https://github.com/yuvalofek/MultiprocessingMatMul)
 * **Oct 3: (xgboost)** [Implemented xgboost from scratch! (xgboost part 1)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 4: (xgboost, boosting)** [Implemented boosting and added to previously created xgboost trees (xgboost part 2)](https://github.com/yuvalofek/py_xgboost)
+* **Oct 5: (xgboost, boosting, plotly)** [Finished xgboost project! Added multi-dim input feature and aproximate splitting (xgboost part 3)](https://github.com/yuvalofek/py_xgboost)
+
+
+## Topics I am interested in looking into: 
+### High priority
+- [ ] Command Line Github
+- [ ] Parallelization
+  - [X] Multiprocessing
+  - [ ] Cloud (AWS/GCP/Azure)
+  - [ ] PySpark
+- [ ] Bread and Butter
+  - [ ] A/B Testing
+  - [ ] SQL
+  - [ ] Feature engineering
+  - [ ] Data cleaning
+  - [ ] Data wrangling
+- [ ] Quality of Life
+  - [ ] Pytest
+  - [ ] Docker
+  - [ ] Kubernetes 
+- [ ] Web
+  - [ ] Flask
+  - [ ] Fast API
+- [ ] Data Vizualization
+  - [ ] Tableau
+- [ ] Statistics
+  - [ ] scipy.stats (more in depth) 
+  - [ ] statsmodels 
+  - [ ] 
+- [ ] ML
+  - [X] xgboost
+  - [ ] AutoML
+  - [ ] sklearn (more in depth)
+- [X] Scraping 
+
+### Lower Priority
+- [ ] unbalanced-learn
+- [ ] Specific ML tools
+  - [ ] lightgbm
+- [ ] Time Series
+  - [ ] prophet
+  - [ ] greykite
+- [ ] Understanding the low level 
+  - [ ] C++
+  - [ ] CUDA
+- [ ] Specific Viz tools
+  - [ ] Plotly
+  - [ ] Seaborn
+- [ ] More DB
+  - [ ] MongoDB
