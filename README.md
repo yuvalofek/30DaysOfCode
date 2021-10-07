@@ -18,7 +18,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 * **Oct 3: (xgboost)** [Implemented xgboost from scratch! (xgboost part 1)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 4: (xgboost, boosting)** [Implemented boosting and added to previously created xgboost trees (xgboost part 2)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 5: (xgboost, boosting, plotly)** [Finished xgboost project! Added multi-dim input feature and aproximate splitting (xgboost part 3)](https://github.com/yuvalofek/py_xgboost)
-* **Oct 6: (git)** Set up git on my PC! (I ran into problems with this before, so I opted to use desktop app/web interface locally and git for remote server work). I also studied unit testing using using PyTest and Circle.ci
+* **Oct 6: (git)** Set up [git](https://git-scm.com/) on my PC! (I ran into problems with this before, so I opted to use desktop app/web interface locally and git for remote server work). I also studied unit testing using using PyTest and Circle.ci
 
 
 ## Topics I am interested in looking into: 
