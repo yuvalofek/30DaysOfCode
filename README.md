@@ -50,6 +50,8 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 - [ ] ML
   - [X] xgboost
   - [ ] AutoML
+    - [ ] Auto-sklearn
+    - [ ] TPOT
   - [ ] sklearn (more in depth)
 - [X] Scraping 
 
