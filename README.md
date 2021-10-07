@@ -29,6 +29,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
   - [ ] Cloud (AWS/GCP/Azure)
   - [ ] PySpark
 - [ ] Bread and Butter
+  - [ ] PCA
   - [ ] A/B Testing
   - [ ] SQL
   - [ ] Feature engineering
@@ -56,12 +57,13 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 - [X] Scraping 
 
 ### Lower Priority
-- [ ] unbalanced-learn
+- [ ] unbalanced-learn (sampling)
 - [ ] Specific ML tools
   - [ ] lightgbm
 - [ ] Time Series
   - [ ] prophet
   - [ ] greykite
+  - [ ] sktime
 - [ ] Understanding the low level 
   - [ ] C++
   - [ ] CUDA
