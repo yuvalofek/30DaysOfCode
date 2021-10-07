@@ -23,7 +23,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 
 ## Topics I am interested in looking into: 
 ### High priority
-- [X] Command Line Github
+- [X] git
 - [ ] Parallelization
   - [X] Multiprocessing
   - [ ] Cloud (AWS/GCP/Azure)
