@@ -33,6 +33,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
   - [ ] A/B Testing
   - [ ] SQL
     - [X] SQLite
+    - [ ] Project
   - [ ] Feature engineering
   - [ ] Data cleaning
   - [ ] Data wrangling
