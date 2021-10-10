@@ -8,9 +8,9 @@ The daily requirements I set for myself are to do one of the following:
 * Report on something I did in an interesting way
 
 ## Overview
-Topics Explored: Scraping, Multiprocessing, Gradient Boosted Trees (GBT), 
+Topics Explored: Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation
 
-Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly
+Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, Medium
 
 ## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
@@ -18,9 +18,11 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 * **Oct 3: (xgboost)** [Implemented xgboost from scratch! (xgboost part 1)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 4: (xgboost, boosting)** [Implemented boosting and added to previously created xgboost trees (xgboost part 2)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 5: (xgboost, boosting, plotly)** [Finished xgboost project! Added multi-dim input feature and aproximate splitting (xgboost part 3)](https://github.com/yuvalofek/py_xgboost)
-* **Oct 6: (git)** Set up [git](https://git-scm.com/) on my PC! (I ran into problems with this before, so I opted to use desktop app/web interface locally and git for remote server work). I also studied unit testing using using PyTest and Circle.ci
+* **Oct 6: (git, PyTest, Circle.Ci)** Set up [git](https://git-scm.com/) on my PC! (I ran into problems with this before, so I opted to use desktop app/web interface locally and git for remote server work). I also studied unit testing using using PyTest and Circle.ci. 
 * **Oct 7: (SQL, sqlite)** Tested out sqlite3 for running SQLite
 * **Oct 8: (Seaborn)** [Added visualization in seaborn to my multiprocessing project]((https://github.com/yuvalofek/MultiprocessingMatMul))
+* **Oct 9: (PCA, DevOps, Blogging)** Watched a couple of videos on PCA (which I found similar to SVD, a procedure I love), started going through a DevOps course on YouTube, and began writing a Medium post on SPPPACY (I have been meaning to do this last one for a long time and finally got to it!) 
+
 
 ## Topics I am interested in looking into: 
 ### High priority
@@ -30,7 +32,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
   - [ ] Cloud (AWS/GCP/Azure)
   - [ ] PySpark
 - [ ] Bread and Butter
-  - [ ] PCA
+  - [X] PCA
   - [ ] A/B Testing
   - [ ] SQL
     - [X] SQLite
