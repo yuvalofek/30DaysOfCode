@@ -22,7 +22,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 * **Oct 7: (SQL, sqlite)** Tested out sqlite3 for running SQLite
 * **Oct 8: (Seaborn)** [Added visualization in seaborn to my multiprocessing project]((https://github.com/yuvalofek/MultiprocessingMatMul))
 * **Oct 9: (PCA, DevOps, Blogging)** Watched a couple of videos on PCA (which I found similar to SVD, a procedure I love), started going through a DevOps course on YouTube, and began writing a Medium post on SPPPACY (I have been meaning to do this last one for a long time and finally got to it!) 
-
+* **Oct 10: (SQL, sqlite, ebooklib, bs4, re, collections)** [I made a dataset for ingredient pairings](https://github.com/yuvalofek/Ingredient-Recommendation) 
 
 ## Topics I am interested in looking into: 
 ### High priority
@@ -45,8 +45,9 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
   - [ ] Docker
   - [ ] Kubernetes 
 - [ ] Web
-  - [ ] Flask
-  - [ ] Fast API
+  - [ ] Streamlit
+  - [ ] Flask ?
+  - [ ] Fast API ?
 - [ ] Data Vizualization
   - [ ] Tableau
 - [ ] Statistics
@@ -60,6 +61,10 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
     - [ ] TPOT
   - [ ] sklearn (more in depth)
 - [X] Scraping 
+  - [X] requests 
+  - [X] bs4 (HTML)
+  - [X] ebooklib (Epub)
+
 
 ### Lower Priority
 - [ ] unbalanced-learn (sampling)
