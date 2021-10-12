@@ -30,7 +30,7 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 ### High priority
 - [X] git
 - [ ] Parallelization
-  - [X] Multiprocessing
+  - [X] Multithreading
   - [ ] Cloud (AWS/GCP/Azure)
   - [ ] PySpark
 - [ ] Bread and Butter
