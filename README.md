@@ -23,6 +23,8 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 * **Oct 8: (Seaborn)** [Added visualization in seaborn to my multiprocessing project]((https://github.com/yuvalofek/MultiprocessingMatMul))
 * **Oct 9: (PCA, DevOps, Blogging)** Watched a couple of videos on PCA (which I found similar to SVD, a procedure I love), started going through a DevOps course on YouTube, and began writing a Medium post on SPPPACY (I have been meaning to do this last one for a long time and finally got to it!) 
 * **Oct 10: (SQL, sqlite, ebooklib, bs4, re, collections)** [I made a dataset for ingredient pairings](https://github.com/yuvalofek/Ingredient-Recommendation) 
+* **Oct 11: (SQL, streamlit, flask)** Took some time to dig in deeper on SQL and web developement using Python so I can make the ingredient pairings project into an app 
+
 
 ## Topics I am interested in looking into: 
 ### High priority
