@@ -19,12 +19,12 @@ Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing
 * **Oct 4: (xgboost, boosting)** [Implemented boosting and added to previously created xgboost trees (xgboost part 2)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 5: (xgboost, boosting, plotly)** [Finished xgboost project! Added multi-dim input feature and aproximate splitting (xgboost part 3)](https://github.com/yuvalofek/py_xgboost)
 * **Oct 6: (git, PyTest, Circle.Ci)** Set up [git](https://git-scm.com/) on my PC! (I ran into problems with this before, so I opted to use desktop app/web interface locally and git for remote server work). I also studied unit testing using using PyTest and Circle.ci. 
-* **Oct 7: (SQL, sqlite)** Tested out sqlite3 for running SQLite
+* **Oct 7: (SQL, sqlite)** [Tested out sqlite3 for running SQLite](https://github.com/yuvalofek/sqlite_test)
 * **Oct 8: (Seaborn)** [Added visualization in seaborn to my multiprocessing project]((https://github.com/yuvalofek/MultiprocessingMatMul))
 * **Oct 9: (PCA, DevOps, Blogging)** Watched a couple of videos on PCA (which I found similar to SVD, a procedure I love), started going through a DevOps course on YouTube, and began writing a Medium post on SPPPACY (I have been meaning to do this last one for a long time and finally got to it!) 
 * **Oct 10: (SQL, sqlite, ebooklib, bs4, re, collections)** [I made a dataset for ingredient pairings](https://github.com/yuvalofek/Ingredient-Recommendation) 
 * **Oct 11: (SQL, streamlit, flask)** Took some time to dig in deeper on SQL and web developement using Python so I can make the ingredient pairings project into an app 
-* **Oct 12: (PCA, NumPy, Sklearn)** Coded up PCA in Numpy and compared results with sklearn
+* **Oct 12: (PCA, NumPy, Sklearn)** [Coded up PCA in Numpy and compared results with sklearn](https://github.com/yuvalofek/PCA)
 
 ## Topics I am interested in looking into: 
 ### High priority
