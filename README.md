@@ -8,9 +8,9 @@ The daily requirements I set for myself are to do one of the following:
 * Report on something I did in an interesting way
 
 ## Overview
-Topics Explored: Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation
+**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction
 
-Tools I used so far: (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, Medium
+**Tools I used so far:** (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, Medium, git, sqlite3, ebooklib, collections, sklearn ; (SQL)
 
 ## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
