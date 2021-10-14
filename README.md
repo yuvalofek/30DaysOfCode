@@ -26,6 +26,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 11: (SQL, streamlit, flask)** Took some time to dig in deeper on SQL and web developement using Python so I can make the ingredient pairings project into an app 
 * **Oct 12: (PCA, NumPy, Sklearn)** [Coded up PCA in Numpy and compared results with sklearn](https://github.com/yuvalofek/PCA)
 * **Oct 13: (Spark, PyPark)** watched and read tutorials on PySpark and Spark
+* **Oct 14: (medium)** went back and edited the medium post i wrote on Oct 9... hopefully I get it out soon
 
 ## Topics I am interested in looking into: 
 ### High priority
