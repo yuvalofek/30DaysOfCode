@@ -27,6 +27,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 12: (PCA, NumPy, Sklearn)** [Coded up PCA in Numpy and compared results with sklearn](https://github.com/yuvalofek/PCA)
 * **Oct 13: (Spark, PyPark)** watched and read tutorials on PySpark and Spark
 * **Oct 14: (medium)** went back and edited the medium post i wrote on Oct 9... hopefully I get it out soon
+* **Oct 15: (C++)** [I coded Othello in C++ from scratch!](https://github.com/yuvalofek/othello)
 
 ## Topics I am interested in looking into: 
 ### High priority
@@ -80,7 +81,7 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] greykite
   - [ ] sktime
 - [ ] Understanding the low level 
-  - [ ] C++
+  - [X] C++
   - [ ] CUDA
 - [ ] Specific Viz tools
   - [ ] Plotly
