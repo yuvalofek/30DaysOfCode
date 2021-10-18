@@ -28,6 +28,8 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 13: (Spark, PyPark)** watched and read tutorials on PySpark and Spark
 * **Oct 14: (medium)** went back and edited the medium post i wrote on Oct 9... hopefully I get it out soon
 * **Oct 15: (C++)** [I coded Othello in C++ from scratch!](https://github.com/yuvalofek/othello)
+* **Oct 16: (hugo, portfolio)** Watched some tutorials on making a portfolio website
+* **Oct 17: (hugo, portfolio)** Put some more work into the porfolio
 
 ## Topics I am interested in looking into: 
 ### High priority
