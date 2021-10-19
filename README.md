@@ -30,6 +30,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 15: (C++)** [I coded Othello in C++ from scratch!](https://github.com/yuvalofek/othello)
 * **Oct 16: (hugo, portfolio)** Watched some tutorials on making a portfolio website
 * **Oct 17: (hugo, portfolio)** Put some more work into the porfolio
+* **Oct 18: (A/B testing)** Read about A/B testing
 
 ## Topics I am interested in looking into: 
 ### High priority
