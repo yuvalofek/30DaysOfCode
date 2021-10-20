@@ -31,6 +31,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 16: (hugo, portfolio)** Watched some tutorials on making a portfolio website
 * **Oct 17: (hugo, portfolio)** Put some more work into the porfolio
 * **Oct 18: (A/B testing)** Read about A/B testing
+* **Oct 19: (Statistics)** Started 365 Data Science statistics course
 
 ## Topics I am interested in looking into: 
 ### High priority
