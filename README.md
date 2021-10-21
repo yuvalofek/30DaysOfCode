@@ -32,7 +32,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 17: (hugo, portfolio)** Put some more work into the porfolio
 * **Oct 18: (A/B testing)** Read about A/B testing
 * **Oct 19: (Statistics)** Started 365 Data Science statistics course
-* **Oct 20: (Data cleaning)** [Went and cleaned the data I generated from the light novels cite] (https://github.com/yuvalofek/scraping-light-novel-data)
+* **Oct 20: (Data cleaning)** [Went and cleaned the data I generated from the light novels cite](https://github.com/yuvalofek/scraping-light-novel-data)
 
 ## Topics I am interested in looking into: 
 ### High priority
