@@ -33,6 +33,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 18: (A/B testing)** Read about A/B testing
 * **Oct 19: (Statistics)** Started 365 Data Science statistics course
 * **Oct 20: (Data cleaning)** [Went and cleaned the data I generated from the light novels cite](https://github.com/yuvalofek/scraping-light-novel-data)
+* **Oct 21: (Statistics, PySpark)** Continued statistics course and read more about PySpark (on tutorialpoint)
 
 ## Topics I am interested in looking into: 
 ### High priority
