@@ -34,6 +34,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 19: (Statistics)** Started 365 Data Science statistics course
 * **Oct 20: (Data cleaning)** [Went and cleaned the data I generated from the light novels cite](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 21: (Statistics, PySpark)** Continued statistics course and read more about PySpark (on tutorialpoint)
+* **Oct 22: (Seaborn, Pandas)** [Basic data exploration on the scraped novel data](https://github.com/yuvalofek/scraping-light-novel-data)
 
 ## Topics I am interested in looking into: 
 ### High priority
