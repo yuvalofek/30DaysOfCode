@@ -8,9 +8,10 @@ The daily requirements I set for myself are to do one of the following:
 * Report on something I did in an interesting way
 
 ## Overview
-**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning,
+**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration, Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics
 
-**Tools I used so far:** (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, Medium, git, sqlite3, ebooklib, collections, sklearn; (SQL); (C++)
+**Tools I used so far:** 
+* (Python) concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, sqlite3, ebooklib, collections, sklearn, pandas; (SQL); (C++); (git); (Medium)
 
 ## Daily Breakdown
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
@@ -35,6 +36,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 20: (Data cleaning)** [Went and cleaned the data I generated from the light novels cite](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 21: (Statistics, PySpark)** Continued statistics course and read more about PySpark (on tutorialpoint)
 * **Oct 22: (Seaborn, Pandas)** [Basic data exploration on the scraped novel data](https://github.com/yuvalofek/scraping-light-novel-data)
+* **Oct 23: (Seaborn, Pandas)** [Continued the data exploration and visualization for the light novel dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 
 ## Topics I am interested in looking into: 
 ### High priority
