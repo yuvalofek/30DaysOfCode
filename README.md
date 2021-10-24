@@ -53,7 +53,7 @@ The daily requirements I set for myself are to do one of the following:
     - [ ] Project
   - [ ] Feature engineering
   - [X] Data cleaning
-  - [ ] Data wrangling
+  - [X] Data wrangling
 - [ ] Quality of Life
   - [ ] Pytest
   - [ ] Docker
