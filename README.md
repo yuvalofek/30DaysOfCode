@@ -37,6 +37,8 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 21: (Statistics, PySpark)** Continued statistics course and read more about PySpark (on tutorialpoint)
 * **Oct 22: (Seaborn, Pandas)** [Basic data exploration on the scraped novel data](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 23: (Seaborn, Pandas)** [Continued the data exploration and visualization for the light novel dataset](https://github.com/yuvalofek/scraping-light-novel-data)
+* **Oct 24: (PySpark)** Figured out how to run PySpark on Google Colab
+
 
 ## Topics I am interested in looking into: 
 ### High priority
