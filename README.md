@@ -38,6 +38,7 @@ The daily requirements I set for myself are to do one of the following:
 * **Oct 22: (Seaborn, Pandas)** [Basic data exploration on the scraped novel data](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 23: (Seaborn, Pandas)** [Continued the data exploration and visualization for the light novel dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 24: (PySpark)** Figured out how to run PySpark on Google Colab
+* **Oct 25: (Rasterio, concurrent.futures)** [Created a tool to match tif files between 2 directories](https://github.com/yuvalofek/tif_matcher)
 
 
 ## Topics I am interested in looking into: 
