@@ -1,14 +1,10 @@
 # 30DaysOfCode
 Continuous improvement is key! Not sure where I first read about this, but I just found this post by [lifehack.org](https://www.lifehack.org/788823/continuous-improvement) that highlighted the philosophy of Kaizen, the practice of continuous improvement. This resonated with me a lot, so I decided to set a goal to code every day of October! 
 
-## Requirements 
-The daily requirements I set for myself are to do one of the following:
-* Do something you haven't done before
-* Improve on a piece of work you did
-* Report on something I did in an interesting way
+After going through the almost the entire month I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely! Tracking progress allows me to see my growth and motivates me to keep going :)
 
 ## Overview
-**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration, Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics
+**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration, Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics, Automation
 
 **Tools I used so far:** 
 * (Python) _concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, sqlite3, ebooklib, collections, sklearn, pandas;_ (SQL); (C++); (git); (Medium)
