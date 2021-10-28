@@ -44,20 +44,20 @@ The daily requirements I set for myself are to do one of the following:
 
 ## Topics I am interested in looking into: 
 ### High priority
-- [X] git
+- [X] git (Oct 6)
 - [ ] Parallelization
-  - [X] Multithreading
+  - [X] Multithreading (Oct 2)
   - [ ] Cloud (AWS/GCP/Azure)
   - [ ] PySpark
 - [ ] Bread and Butter
-  - [X] PCA
-  - [X] A/B Testing
+  - [X] PCA (Oct 9)
+  - [X] A/B Testing (Oct 18)
   - [ ] SQL
-    - [X] SQLite
-    - [ ] Project
+    - [X] SQLite (Oct 7)
+    - [ ] Project 
   - [ ] Feature engineering
-  - [X] Data cleaning
-  - [X] Data wrangling
+  - [X] Data cleaning (Oct 20)
+  - [X] Data wrangling (Oct 10)
 - [ ] Quality of Life
   - [ ] Pytest
   - [ ] Documentation - Read the Docs
@@ -69,21 +69,21 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] Fast API ?
 - [ ] Data Vizualization
   - [ ] Tableau
-  - [X] Seaborn
+  - [X] Seaborn (Oct 8)
 - [ ] Statistics
   - [ ] Theory
   - [ ] scipy.stats (more in depth) 
   - [ ] statsmodels 
 - [ ] ML
-  - [X] xgboost
+  - [X] xgboost (Oct 5)
   - [ ] AutoML
     - [ ] Auto-sklearn
     - [ ] TPOT
   - [ ] sklearn (more in depth)
-- [X] Scraping 
-  - [X] requests 
-  - [X] bs4 (HTML)
-  - [X] ebooklib (Epub)
+- [X] Scraping (Oct 10)
+  - [X] requests (Oct 1)
+  - [X] bs4 (HTML) (Oct 1)
+  - [X] ebooklib - Epubs (Oct 10)
 
 
 ### Lower Priority
@@ -96,10 +96,10 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] greykite
   - [ ] sktime
 - [ ] Understanding the low level 
-  - [X] C++
+  - [X] C++ - Review (Oct 15)
   - [ ] CUDA/GPU Programming
 - [ ] Specific Viz tools
   - [ ] Plotly
 - [ ] More DB
   - [ ] MongoDB
-  - [ ] snowflake
+  - [ ] Snowflake
