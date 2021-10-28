@@ -62,7 +62,6 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] Pytest
   - [ ] Documentation - Read the Docs
   - [ ] Docker
-  - [ ] Kubernetes 
 - [ ] Web
   - [ ] Streamlit
   - [ ] Flask ?
@@ -95,10 +94,16 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] prophet
   - [ ] greykite
   - [ ] sktime
+- [ ] More General Purpose Tools
+  - [ ] Kubernetes
+  - [ ] Dask 
 - [ ] Understanding the low level 
   - [X] C++ - Review \[Oct 15\]
-  - [ ] CUDA/GPU Programming
-- [ ] Specific Viz tools
+  - [ ] CUDA
+  - [ ] GPU Programming
+  - [ ] Numba
+  - [ ] Cython
+- [ ] More Viz tools
   - [ ] Plotly
 - [ ] More DB
   - [ ] MongoDB
