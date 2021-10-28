@@ -60,6 +60,7 @@ The daily requirements I set for myself are to do one of the following:
   - [X] Data wrangling
 - [ ] Quality of Life
   - [ ] Pytest
+  - [ ] Documentation - Read the Docs
   - [ ] Docker
   - [ ] Kubernetes 
 - [ ] Web
@@ -89,14 +90,16 @@ The daily requirements I set for myself are to do one of the following:
 - [ ] unbalanced-learn (sampling)
 - [ ] Specific ML tools
   - [ ] lightgbm
+  - [ ] Graph ML
 - [ ] Time Series
   - [ ] prophet
   - [ ] greykite
   - [ ] sktime
 - [ ] Understanding the low level 
   - [X] C++
-  - [ ] CUDA
+  - [ ] CUDA/GPU Programming
 - [ ] Specific Viz tools
   - [ ] Plotly
 - [ ] More DB
   - [ ] MongoDB
+  - [ ] snowflake
