@@ -4,7 +4,7 @@ Continuous improvement is key! Not sure where I first read about this, but I jus
 After going through the almost the entire month I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely! Tracking progress allows me to see my growth and motivates me to keep going :)
 
 ## Overview
-**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration, Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics, Automation
+**Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration/Exploratory Data Analysis (EDA), Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics, Automation, Data Versioning, Documentation, 
 
 **Tools I used so far:** 
 * (Python) _concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, sqlite3, ebooklib, collections, sklearn, pandas;_ (SQL); (C++); (git); (Medium)
@@ -37,6 +37,9 @@ After going through the almost the entire month I realized I really liked the vi
 * **Oct 25: (Rasterio, concurrent.futures)** [Created a tool to match tif files between 2 directories](https://github.com/yuvalofek/tif_matcher)
 * **Oct 26: (Rasterio, concurrent.futures)** [More work on the tif matching tool](https://github.com/yuvalofek/tif_matcher)
 * **Oct 27: (Rasterio, concurrent.futures)** [Finished the tif matching tool](https://github.com/yuvalofek/tif_matcher)
+* **Oct 28: (Data Versioning, Documentation, Exploratory Analysis)** Joined [PyData Global 2021](https://pydata.org/global2021/) and went to:
+  * [🦉DVC Showcase – Who Moved My Data?](https://pydata.org/global2021/schedule/presentation/77/dvc-showcase-who-moved-my-data/)  
+  * [Document your scientific project with Markdown, Sphinx, and Read the Docs](https://pydata.org/global2021/schedule/presentation/17/document-your-scientific-project-with-markdown-sphinx-and-read-the-docs/)
 
 ## Topics I am interested in looking into: 
 ### High priority
