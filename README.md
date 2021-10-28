@@ -44,20 +44,20 @@ The daily requirements I set for myself are to do one of the following:
 
 ## Topics I am interested in looking into: 
 ### High priority
-- [X] git (Oct 6)
+- [X] git \[Oct 6\]
 - [ ] Parallelization
-  - [X] Multithreading (Oct 2)
+  - [X] Multithreading \[Oct 2\]
   - [ ] Cloud (AWS/GCP/Azure)
   - [ ] PySpark
 - [ ] Bread and Butter
-  - [X] PCA (Oct 9)
-  - [X] A/B Testing (Oct 18)
+  - [X] PCA \[Oct 9\]
+  - [X] A/B Testing \[Oct 18\]
   - [ ] SQL
-    - [X] SQLite (Oct 7)
+    - [X] SQLite \[Oct 7\]
     - [ ] Project 
   - [ ] Feature engineering
-  - [X] Data cleaning (Oct 20)
-  - [X] Data wrangling (Oct 10)
+  - [X] Data cleaning \[Oct 20\]
+  - [X] Data wrangling \[Oct 10\]
 - [ ] Quality of Life
   - [ ] Pytest
   - [ ] Documentation - Read the Docs
@@ -69,21 +69,21 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] Fast API ?
 - [ ] Data Vizualization
   - [ ] Tableau
-  - [X] Seaborn (Oct 8)
+  - [X] Seaborn \[Oct 8\]
 - [ ] Statistics
   - [ ] Theory
   - [ ] scipy.stats (more in depth) 
   - [ ] statsmodels 
 - [ ] ML
-  - [X] xgboost (Oct 5)
+  - [X] xgboost \[Oct 5\]
   - [ ] AutoML
     - [ ] Auto-sklearn
     - [ ] TPOT
   - [ ] sklearn (more in depth)
-- [X] Scraping (Oct 10)
-  - [X] requests (Oct 1)
-  - [X] bs4 (HTML) (Oct 1)
-  - [X] ebooklib - Epubs (Oct 10)
+- [X] Scraping \[Oct 10\]
+  - [X] requests \[Oct 1\]
+  - [X] bs4 (HTML) \[Oct 1\]
+  - [X] ebooklib - Epubs \[Oct 10\]
 
 
 ### Lower Priority
@@ -96,7 +96,7 @@ The daily requirements I set for myself are to do one of the following:
   - [ ] greykite
   - [ ] sktime
 - [ ] Understanding the low level 
-  - [X] C++ - Review (Oct 15)
+  - [X] C++ - Review \[Oct 15\]
   - [ ] CUDA/GPU Programming
 - [ ] Specific Viz tools
   - [ ] Plotly
