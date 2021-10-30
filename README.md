@@ -43,6 +43,9 @@ After going through the almost the entire month I realized I really liked the vi
   * [Know Your Data First: An Introduction to Exploratory Data Analysis](https://pydata.org/global2021/schedule/presentation/32/know-your-data-first-an-introduction-to-exploratory-data-analysis/)
   * [GPU development with Python 101](https://pydata.org/global2021/schedule/presentation/62/gpu-development-with-python-101/)
   * [Snowflake and Tecton: How to build production-ready machine learning pipelines](https://pydata.org/global2021/schedule/presentation/201/snowflake-and-tecton-how-to-build-production-ready-machine-learning-pipelines/)
+* **Oct 29: (Bayesian Ordered Logistic Regression: jax, numpyro; Graphs: neo4j, optuna, sklearn, pandas)** More webinars:
+  * [Let's Implement Bayesian Ordered Logistic Regression!](https://pydata.org/global2021/schedule/presentation/48/lets-implement-bayesian-ordered-logistic-regression/)
+  * [Working with Data in a Connected World: the Power of Graph Data Science](https://pydata.org/global2021/schedule/presentation/107/working-with-data-in-a-connected-world-the-power-of-graph-data-science/)
 
 ## Topics I am interested in looking into: 
 ### High priority
