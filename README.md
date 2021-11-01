@@ -1,7 +1,7 @@
 # 30DaysOfCode
 Continuous improvement is key! Not sure where I first read about this, but I just found this post by [lifehack.org](https://www.lifehack.org/788823/continuous-improvement) that highlighted the philosophy of Kaizen, the practice of continuous improvement. This resonated with me a lot, so I decided to set a goal to code every day of October! 
 
-After going through the almost the entire month I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely! Tracking progress allows me to see my growth and motivates me to keep going :)
+After going through the almost the entire month I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely (After taking a break in November to finish my masters)! Tracking progress allows me to see my growth and motivates me to keep going :)
 
 ## Overview
 **Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration/Exploratory Data Analysis (EDA), Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics, Automation, Data Versioning, Documentation, 
@@ -46,6 +46,12 @@ After going through the almost the entire month I realized I really liked the vi
 * **Oct 29: (Bayesian Ordered Logistic Regression: jax, numpyro; Graphs: neo4j, optuna, sklearn, pandas)** More webinars:
   * [Let's Implement Bayesian Ordered Logistic Regression!](https://pydata.org/global2021/schedule/presentation/48/lets-implement-bayesian-ordered-logistic-regression/)
   * [Working with Data in a Connected World: the Power of Graph Data Science](https://pydata.org/global2021/schedule/presentation/107/working-with-data-in-a-connected-world-the-power-of-graph-data-science/)
+* **Oct 30: (Open Source: Contributed to NumPy)** Last day of PyData Global:
+  *  Participated in the NumPy + SciPy Sprint and [made my first open source contribution!](https://github.com/numpy/numpy/pull/20242)
+* **Oct 31: (Compressive sensing; Data Pipelines: Apache Kafka; Causal Inference: Simpson's Paradox)** Catching up on PyData webinars I missed:
+  * [Compressive Sensing](https://pydata.org/global2021/schedule/presentation/204/compressive-sensing/)
+  * [Start Asking Your Data “Why?” - A Gentle Introduction To Causal Inference](https://pydata.org/global2021/schedule/presentation/29/start-asking-your-data-why-a-gentle-introduction-to-causal-inference/)
+  * [Get to know Apache Kafka with Jupyter Notebooks](https://pydata.org/global2021/schedule/presentation/73/get-to-know-apache-kafka-with-jupyter-notebooks/)
 
 ## Topics I am interested in looking into: 
 ### High priority
@@ -106,7 +112,7 @@ After going through the almost the entire month I realized I really liked the vi
   - [X] C++ - Review \[Oct 15\]
   - [ ] CUDA
   - [ ] GPU Programming
-  - [ ] Numba
+  - [ ] Numba 
   - [ ] Cython
 - [ ] More Viz tools
   - [ ] Plotly
