@@ -25,7 +25,7 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
 * **Oct 10: (SQL, sqlite, ebooklib, bs4, re, collections)** [I made a dataset for ingredient pairings](https://github.com/yuvalofek/Ingredient-Recommendation) 
 * **Oct 11: (SQL, streamlit, flask)** Took some time to dig in deeper on SQL and web developement using Python so I can make the ingredient pairings project into an app 
 * **Oct 12: (PCA, NumPy, Sklearn)** [Coded up PCA in Numpy and compared results with sklearn](https://github.com/yuvalofek/PCA)
-* **Oct 13: (Spark, PyPark)** watched and read tutorials on PySpark and Spark
+* **Oct 13: (Spark, PySpark)** watched and read tutorials on PySpark and Spark
 * **Oct 14: (medium)** went back and edited the medium post i wrote on Oct 9... hopefully I get it out soon
 * **Oct 15: (C++)** [I coded Othello in C++ from scratch!](https://github.com/yuvalofek/othello)
 * **Oct 16: (hugo, portfolio)** Watched some tutorials on making a portfolio website
