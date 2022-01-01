@@ -1,8 +1,7 @@
 # 30DaysOfCode
 Continuous improvement is key! Not sure where I first read about this, but I just found this post by [lifehack.org](https://www.lifehack.org/788823/continuous-improvement) that highlighted the philosophy of Kaizen, the practice of continuous improvement. This resonated with me a lot, so I decided to set a goal to code every day of October! 
 
-After going through the almost the entire month I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely 
->(After taking a break in November to finish my masters)! 
+After going through the almost the entire month (Oct 2021) I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely!
 
 Tracking progress allows me to see my growth and motivates me to keep going :)
 
@@ -13,6 +12,78 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
 * (Python) _concurrent.futures, bs4, requests, multiprocessing, threading, numpy, matplotlib, plotly, seaborn, sqlite3, ebooklib, collections, sklearn, pandas;_ (SQL); (C++); (git); (Medium)
 
 ## Daily Breakdown
+### January 2021
+* **Jan 1:** Re-evaluated priorities to start up my learning again!
+
+## Topics I am interested in looking into: 
+### High priority
+- [X] git \[Oct 6\]
+- [ ] Kaggle Competitions
+- 
+- [ ] Parallelization
+  - [X] Multithreading \[Oct 2\]
+  - [ ] Dask
+  - [ ] Cloud (AWS/GCP/Azure)
+- [ ] Bread and Butter
+  - [X] PCA \[Oct 9\]
+  - [X] A/B Testing \[Oct 18\]
+  - [ ] SQL
+    - [X] SQLite \[Oct 7\]
+    - [ ] Project 
+  - [ ] Feature engineering
+  - [X] Data cleaning \[Oct 20\]
+  - [X] Data wrangling \[Oct 10\]
+- [ ] Quality of Life
+  - [ ] Docker
+  - [ ] Documentation - Read the Docs
+  - [ ] Pytest
+- [ ] Web
+  - [ ] Streamlit/Flask/Fast API
+- [ ] Data Vizualization
+  - [ ] Tableau
+  - [X] Seaborn \[Oct 8\]
+- [ ] Statistics
+  - [ ] Theory
+  - [ ] scipy.stats (more in depth) 
+  - [ ] statsmodels 
+- [ ] ML
+  - [X] xgboost \[Oct 5\]
+  - [ ] AutoML
+    - [ ] Auto-sklearn
+    - [ ] TPOT
+  - [ ] sklearn (more in depth)
+- [X] Scraping \[Oct 10\]
+  - [X] requests \[Oct 1\]
+  - [X] bs4 (HTML) \[Oct 1\]
+  - [X] ebooklib - Epubs \[Oct 10\]
+
+
+### Lower Priority
+- [ ] unbalanced-learn (sampling)
+- [ ] Specific ML tools
+  - [ ] lightgbm
+  - [ ] Graph ML
+- [ ] Time Series
+  - [ ] prophet
+  - [ ] greykite
+  - [ ] sktime
+- [ ] More General Purpose Tools
+  - [ ] Kubernetes 
+  - [ ] PySpark
+- [ ] Understanding the low level 
+  - [X] C++ - Review \[Oct 15\]
+  - [ ] CUDA
+  - [ ] GPU Programming
+  - [ ] Numba 
+  - [ ] Cython
+- [ ] More Viz tools
+  - [ ] Plotly
+- [ ] More DB
+  - [ ] MongoDB
+  - [ ] Snowflake
+
+## Progress for past months:
+### October 2021
 * **Oct 1: (requests, bs4, re, concurrent.futures, nltk, and pandas)** [Scraped readlightnovel.me to create a light-novels dataset](https://github.com/yuvalofek/scraping-light-novel-data)
 * **Oct 2: (concurrent.futures, Threading, Multiprocessing)** [A comparison of multi- and single core multiprocessing for matrix multiplication in Python](https://github.com/yuvalofek/MultiprocessingMatMul)
 * **Oct 3: (xgboost)** [Implemented xgboost from scratch! (xgboost part 1)](https://github.com/yuvalofek/py_xgboost)
@@ -56,69 +127,3 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
   * [Start Asking Your Data “Why?” - A Gentle Introduction To Causal Inference](https://pydata.org/global2021/schedule/presentation/29/start-asking-your-data-why-a-gentle-introduction-to-causal-inference/)
   * [Get to know Apache Kafka with Jupyter Notebooks](https://pydata.org/global2021/schedule/presentation/73/get-to-know-apache-kafka-with-jupyter-notebooks/)
 
-## Topics I am interested in looking into: 
-### High priority
-- [X] git \[Oct 6\]
-- [ ] Parallelization
-  - [X] Multithreading \[Oct 2\]
-  - [ ] Cloud (AWS/GCP/Azure)
-  - [ ] PySpark
-- [ ] Bread and Butter
-  - [X] PCA \[Oct 9\]
-  - [X] A/B Testing \[Oct 18\]
-  - [ ] SQL
-    - [X] SQLite \[Oct 7\]
-    - [ ] Project 
-  - [ ] Feature engineering
-  - [X] Data cleaning \[Oct 20\]
-  - [X] Data wrangling \[Oct 10\]
-- [ ] Quality of Life
-  - [ ] Pytest
-  - [ ] Documentation - Read the Docs
-  - [ ] Docker
-- [ ] Web
-  - [ ] Streamlit
-  - [ ] Flask ?
-  - [ ] Fast API ?
-- [ ] Data Vizualization
-  - [ ] Tableau
-  - [X] Seaborn \[Oct 8\]
-- [ ] Statistics
-  - [ ] Theory
-  - [ ] scipy.stats (more in depth) 
-  - [ ] statsmodels 
-- [ ] ML
-  - [X] xgboost \[Oct 5\]
-  - [ ] AutoML
-    - [ ] Auto-sklearn
-    - [ ] TPOT
-  - [ ] sklearn (more in depth)
-- [X] Scraping \[Oct 10\]
-  - [X] requests \[Oct 1\]
-  - [X] bs4 (HTML) \[Oct 1\]
-  - [X] ebooklib - Epubs \[Oct 10\]
-
-
-### Lower Priority
-- [ ] unbalanced-learn (sampling)
-- [ ] Specific ML tools
-  - [ ] lightgbm
-  - [ ] Graph ML
-- [ ] Time Series
-  - [ ] prophet
-  - [ ] greykite
-  - [ ] sktime
-- [ ] More General Purpose Tools
-  - [ ] Kubernetes
-  - [ ] Dask 
-- [ ] Understanding the low level 
-  - [X] C++ - Review \[Oct 15\]
-  - [ ] CUDA
-  - [ ] GPU Programming
-  - [ ] Numba 
-  - [ ] Cython
-- [ ] More Viz tools
-  - [ ] Plotly
-- [ ] More DB
-  - [ ] MongoDB
-  - [ ] Snowflake
