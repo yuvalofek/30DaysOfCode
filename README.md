@@ -19,7 +19,6 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
 ### High priority
 - [X] git \[Oct 6\]
 - [ ] Kaggle Competitions
-- 
 - [ ] Parallelization
   - [X] Multithreading \[Oct 2\]
   - [ ] Dask
