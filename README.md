@@ -13,7 +13,9 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
 
 ## Daily Breakdown
 ### January 2021
-* **Jan 1:** Re-evaluated priorities to start up my learning again!
+1.  Re-evaluated priorities to start up my learning again!
+1.  Watched [Risk at Scale - Running a large investment risk system and how risk analysis techniques can help you
+](https://pydata.org/global2021/schedule/presentation/151/risk-at-scale-running-a-large-investment-risk-system-and-how-risk-analysis-techniques-can-help-you/) - fascinating watch about working with risk at large scale and the software choices behind it. 
 
 ## Topics I am interested in looking into: 
 ### High priority
