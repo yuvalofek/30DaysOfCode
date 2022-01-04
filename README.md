@@ -16,6 +16,11 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
 1.  Re-evaluated priorities to start up my learning again!
 1.  Watched [Risk at Scale - Running a large investment risk system and how risk analysis techniques can help you
 ](https://pydata.org/global2021/schedule/presentation/151/risk-at-scale-running-a-large-investment-risk-system-and-how-risk-analysis-techniques-can-help-you/) - fascinating watch about working with risk at large scale and the software choices behind it. 
+1. Watched: 
+    * [Highly-Scalable NLP to Answer Questions on South Africa’s COVID-19 WhatsApp Hotline](https://pydata.org/global2021/schedule/presentation/100/highly-scalable-nlp-to-answer-questions-on-south-africas-covid-19-whatsapp-hotline/) - Impresive use of NLP to help covid Q&A
+    * [Computations as Assets - a New Approach to Reproducibility and Transparency](https://pydata.org/global2021/schedule/presentation/44/computations-as-assets-a-new-approach-to-reproducibility-and-transparency/) -- Introduction to ExAx and some visualizations it allows us to create. I really liked the COVID-19 visualization they did with taxi cars. Added ExAx/Accelerator to my list of thing to learn. 
+    * [Darts for Time Series Forecasting](https://pydata.org/global2021/schedule/presentation/28/darts-for-time-series-forecasting/) - Introduction to the Darts library. Seems like a very versatile tool for forecasting, I added it to my list of things to check out. 
+
 
 ## Topics I am interested in looking into: 
 ### High priority
@@ -68,9 +73,11 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
   - [ ] prophet
   - [ ] greykite
   - [ ] sktime
+  - [ ] Darts
 - [ ] More General Purpose Tools
   - [ ] Kubernetes 
   - [ ] PySpark
+  - [ ] ExAx/Accelerator (eBay)
 - [ ] Understanding the low level 
   - [X] C++ - Review \[Oct 15\]
   - [ ] CUDA
