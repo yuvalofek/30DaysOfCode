@@ -21,6 +21,7 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
     * [Computations as Assets - a New Approach to Reproducibility and Transparency](https://pydata.org/global2021/schedule/presentation/44/computations-as-assets-a-new-approach-to-reproducibility-and-transparency/) -- Introduction to ExAx and some visualizations it allows us to create. I really liked the COVID-19 visualization they did with taxi cars. Added ExAx/Accelerator to my list of thing to learn. 
     * [Darts for Time Series Forecasting](https://pydata.org/global2021/schedule/presentation/28/darts-for-time-series-forecasting/) - Introduction to the Darts library. Seems like a very versatile tool for forecasting, I added it to my list of things to check out. 
 1. Looked for resources to learn some more theoretical topics and found [Complexity Explorer](https://www.complexityexplorer.org/)
+1. **(Docker)** Watched [What is Docker in 5 Minutes](https://www.youtube.com/watch?v=_dfLOzuIg2o&ab_channel=TechSquidTV) 
  
 
 
