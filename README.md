@@ -20,6 +20,8 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
     * [Highly-Scalable NLP to Answer Questions on South Africa’s COVID-19 WhatsApp Hotline](https://pydata.org/global2021/schedule/presentation/100/highly-scalable-nlp-to-answer-questions-on-south-africas-covid-19-whatsapp-hotline/) - Impresive use of NLP to help covid Q&A
     * [Computations as Assets - a New Approach to Reproducibility and Transparency](https://pydata.org/global2021/schedule/presentation/44/computations-as-assets-a-new-approach-to-reproducibility-and-transparency/) -- Introduction to ExAx and some visualizations it allows us to create. I really liked the COVID-19 visualization they did with taxi cars. Added ExAx/Accelerator to my list of thing to learn. 
     * [Darts for Time Series Forecasting](https://pydata.org/global2021/schedule/presentation/28/darts-for-time-series-forecasting/) - Introduction to the Darts library. Seems like a very versatile tool for forecasting, I added it to my list of things to check out. 
+1. Looked for resources to learn some more theoretical topics and found [Complexity Explorer](https://www.complexityexplorer.org/)
+ 
 
 
 ## Topics I am interested in looking into: 
