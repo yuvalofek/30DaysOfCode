@@ -22,7 +22,13 @@ Tracking progress allows me to see my growth and motivates me to keep going :)
     * [Darts for Time Series Forecasting](https://pydata.org/global2021/schedule/presentation/28/darts-for-time-series-forecasting/) - Introduction to the Darts library. Seems like a very versatile tool for forecasting, I added it to my list of things to check out. 
 1. Looked for resources to learn some more theoretical topics and found [Complexity Explorer](https://www.complexityexplorer.org/)
 1. **(Docker)** Watched [What is Docker in 5 Minutes](https://www.youtube.com/watch?v=_dfLOzuIg2o&ab_channel=TechSquidTV) 
- 
+1. **(Data Pipeline)** Watched [How to quickly build Data Pipelines for Data Scientists](https://www.youtube.com/watch?v=XMnDCZhm9Go&ab_channel=PyData) - Some nice tips for data pipelining and tutorial for delta using python
+1. **(Random Walks)** Watched [What is a Random Walk? | Infinite Series](https://www.youtube.com/watch?v=stgYW6M5o4k&t=665s&ab_channel=PBSInfiniteSeries) - Introduction to random walks to remember what they are all about
+1. None (Weekend)
+1. None (Weekend)
+1. **(Random Walks)** Began [Complexity Explorer Random Walk tutorial](https://www.complexityexplorer.org/courses/46-random-walks/segments/3854?summary) (1/9)
+1. **(Random Walks)** Continued [Complexity Explorer Random Walk tutorial](https://www.complexityexplorer.org/courses/46-random-walks/segments/3854?summary) (4/9)
+1. 
 
 
 ## Topics I am interested in looking into: 
