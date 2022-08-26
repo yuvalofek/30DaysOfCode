@@ -1,9 +1,7 @@
 # 30DaysOfCode
 Continuous improvement is key! Not sure where I first read about this, but I just found this post by [lifehack.org](https://www.lifehack.org/788823/continuous-improvement) that highlighted the philosophy of Kaizen, the practice of continuous improvement. This resonated with me a lot, so I decided to set a goal to code every day of October! 
 
-After going through the almost the entire month (Oct 2021) I realized I really liked the visual aspect of this, so I decided to keep this going indefinitely!
-
-Tracking progress allows me to see my growth and motivates me to keep going :)
+After going through the almost the entire month (Oct 2021) I realized I really liked the visual aspect of this, so I initally decided to keep this going indefinitely. A bit down the line, I realized that as much as I loved this, I have other things I want to dedicate my time to, and have decided to stop adding new work here... Maybe I will come back in the future :)
 
 ## Overview
 **Topics Explored:** Scraping, Multiprocessing, Gradient Boosted Trees (GBT), Visualization, Content Creation, Dimensionality Reduction, Data Cleaning, Data Visualization, Data Exploration/Exploratory Data Analysis (EDA), Object Oriented Programming (OOP), Data Wrangling, Databases, Statistics, Automation, Data Versioning, Documentation, 
